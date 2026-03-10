@@ -4,7 +4,7 @@
 - **Company Name:** LES Choses De L'immobilier
 - **Directory:** les_choses_de_l_immobilier
 - **Address/Contact:** 
-  - Riviera 2, Jardin, Abidjan, C�te d'Ivoire
+  - Riviera 2, Jardin, Abidjan, Céte d'Ivoire
   - 
   - +225 0798705131
   - 
